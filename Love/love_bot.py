@@ -1,5 +1,5 @@
 import telebot
-from optimize import love_func
+from pic_overlaper import love_func
 import os
 
 TOKEN = os.environ['6153097238:AAFM3n4GqH9Xp-1iSrruiC0Bs2uUC2dNLN0']
