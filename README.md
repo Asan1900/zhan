@@ -79,14 +79,6 @@ Zhan is a Telegram bot that generates love message images. The bot overlays love
 - **`draw_vignette(card_image, vignette_path)`**: Draws the vignette on the card image.
 - **`love_func(love_phrase)`**: Combines all elements to generate the final love message image and returns it as a byte stream.
 
-## Example
-
-![Example Image](example/example_image.jpeg)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to improve the project.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
